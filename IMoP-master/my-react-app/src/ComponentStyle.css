@@ -1,0 +1,54 @@
+body, html {
+    max-width: 100%; 
+}
+  
+footer {
+    max-width: 100%;
+}
+
+.main-header-box-style {
+    text-align: center;
+    margin-top: -10px;
+}
+
+.main-header-text-style {
+    background-color: coral; /* Change when color scheme is defined */
+    color: beige;
+}
+
+.dob-style {
+    font-size: 16px;
+}
+
+.header-button-style {
+    
+}
+
+.main-footer-box-style {
+    background-color: coral;
+    font-size: 16px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
+
+img {
+    width: 250px;
+    height: 300px;
+    margin-top: 100px;
+    border-style: double;
+    border-color: coral;
+    border-radius: 15px;
+}
+
+.volume-slider-style {
+    background-color: coral;
+}
+
+.main-footer-text-style {
+    color: beige;
+    max-width: 100%;
+}
+
+
+

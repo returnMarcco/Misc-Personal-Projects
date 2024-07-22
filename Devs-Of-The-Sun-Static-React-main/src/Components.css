@@ -1,0 +1,65 @@
+.search-bar {
+    background-color: white !important;
+    margin-top: 3px;
+}
+
+.nav-bar {
+    background-color: #00ff22 !important;
+    border-radius: 30px;
+    max-width: 100%;
+}
+
+.item {
+    font-size: 17px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dev-header {
+    color: beige;
+    font-size: 25px;
+    border-style: double;
+    max-width: 100%;
+    border-radius: 100%;
+    background-color: orange;
+    margin-top: 15px;
+}
+
+.universal {
+    color: whitesmoke;
+    font-size: 28px;
+}
+
+.dev-div {
+   margin-left: 32.4%;
+}
+
+.article-header {
+    color: beige;
+    font-size: 25px;
+    border-style: double;
+    max-width: 100%;
+    border-radius: 100%;
+    background-color: orange;
+    margin-top: 15px;
+}
+
+.mailing-form {
+    max-width: 50%;
+    display: inline-block;
+    margin-top: 3px;
+}
+
+.fname {
+    background-color: orange;
+    color: beige !important;
+    border-radius: 18%;
+    
+}
+
+.lname {
+    background-color: orange;
+    color: beige !important;
+    border-radius: 18%;
+    
+}
+

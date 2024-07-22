@@ -1,0 +1,45 @@
+.uther {
+    background-color: rgba(255, 187, 0, 0.89) !important;
+    border-radius: 50%;
+    border-style: double;
+    margin-top: 3px;
+    color: whitesmoke;
+    transition: .2s;
+}
+
+.uther:hover {
+    transform: scale(1.01);
+}
+
+.card-css {
+    display: inline-block;
+    max-width: 33.3%;
+    
+}
+
+.card-john-css {
+    display: inline-block;
+    transition: .2s;
+}
+
+.card-john-css:hover {
+    transform: scale(1.1);
+}
+
+.card-max-css {
+    display: inline-block;
+    transition: .2s;
+}
+
+.card-max-css:hover {
+    transform: scale(1.1);
+}
+
+.card-mark-css {
+    display: inline-block;
+    transition: .2s;
+}
+
+.card-mark-css:hover {
+    transform: scale(1.1);
+}
